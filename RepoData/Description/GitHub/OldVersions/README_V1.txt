@@ -1,0 +1,1 @@
+4️⃣️0️⃣️4️⃣️🌐️ The official source repository for the 404Day website. 404 Day (HTTP 404, day not found) is a technical holiday starting 2021, April 4th (4.04) that celebrates hyperlinks, and raisess awareness on Link rot (Hyperlink celebration day, Link Rot Awareness day) 
